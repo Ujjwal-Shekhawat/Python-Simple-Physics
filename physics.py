@@ -1,3 +1,4 @@
+#More comments will be added later
 import turtle
 import random
 
